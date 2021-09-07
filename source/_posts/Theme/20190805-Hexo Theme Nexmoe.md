@@ -9,9 +9,6 @@ tags:
 
 ![stars](https://img.shields.io/github/stars/theme-nexmoe/hexo-theme-nexmoe.svg) ![forks](https://img.shields.io/github/forks/theme-nexmoe/hexo-theme-nexmoe.svg) ![issues](https://img.shields.io/github/issues/theme-nexmoe/hexo-theme-nexmoe.svg) ![issues-closed](https://img.shields.io/github/issues-closed/theme-nexmoe/hexo-theme-nexmoe.svg)  ![issues](https://img.shields.io/github/issues-pr/theme-nexmoe/hexo-theme-nexmoe.svg) ![issues-closed](https://img.shields.io/github/issues-pr-closed/theme-nexmoe/hexo-theme-nexmoe.svg) ![last-commit](https://img.shields.io/github/last-commit/theme-nexmoe/hexo-theme-nexmoe.svg?label=commits) ![license](https://img.shields.io/github/license/theme-nexmoe/hexo-theme-nexmoe.svg)
 
-一个比较特别的 Hexo 主题
+🔥 一个比较特别的 Hexo 主题
 
 <!--more-->
-
-## Github
-https://github.com/theme-nexmoe/hexo-theme-nexmoe
